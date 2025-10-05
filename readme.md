@@ -1,1 +1,3 @@
 A simple program to manage your virtual garage in C++!
+
+(⚠️ Old project!)
